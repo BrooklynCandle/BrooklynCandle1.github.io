@@ -1,0 +1,62 @@
+.About_img1 {
+    margin: 5% 0% 0% 10%;
+    border: 1px solid black;
+    width: 35%;
+}
+
+.for_about {
+    position: absolute;
+    margin: -30% 0% 0% 47%;
+    border: 1px solid black;
+    width: 35%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.p5,
+.p6 {
+    margin: 0% 0% 5% 0%;
+}
+
+.name_us {
+    position: absolute;
+    margin: -15% 0% 0% 47%;
+    border: 1px solid black;
+    width: 35%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+@media (max-width: 1380px) {
+    .About_img2 {
+        margin: 5% 0% 0% 0%;
+        width: 90%;
+    }
+}
+
+@media (max-width: 1380px) {
+    .About_img1 {
+        margin: 0% 0% 0% 33%;
+    }
+}
+
+@media (max-width: 1380px) {
+
+    .for_about,
+    .p5 {
+        position: relative;
+        width: 65%;
+        margin: 5% 0% 4% 19%;
+        text-align: center;
+    }
+}
+@media (max-width: 1380px) {
+
+    .name_us,
+    .p6 {
+        position: relative;
+        width: 65%;
+        margin: 5% 0% 4% 19%;
+        text-align: center;
+    }
+}

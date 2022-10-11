@@ -1,0 +1,311 @@
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    width: 100%;
+    margin: -4% 0% 0% 41%;
+}
+
+.slideshow-container1 {
+    max-width: 1000px;
+    position: relative;
+    margin: -22% 0% 0% 70%;
+    width: 100%;
+}
+
+.slideshow-container2 {
+    max-width: 1000px;
+    position: relative;
+    margin: -22% 0% 0% 10%;
+    width: 100%;
+}
+
+
+.icone {
+    width: 1.5%;
+    margin-left: 1%;
+}
+
+.for_mi {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#for_product {
+    margin: -1.5% 38% 0% 34%;
+}
+
+#man {
+    margin: -1.5% 0% 0% 81%;
+}
+
+.logo {
+    width: 20%;
+    margin: 3% 0% 0% 40%;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0% 0% 0% 3%;
+}
+
+.NavigationBar {
+    color: rgb(0, 0, 0);
+    margin: 3% 0% 3% 15%;
+
+}
+
+.NavigationBar a:hover {
+    color: rgb(149, 150, 137);
+}
+
+.NavigationBar a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.header {
+    width: 65%;
+    margin-left: 17.5%;
+}
+
+.header1 {
+    width: 21.5%;
+    margin-left: 17.5%;
+}
+
+.header2 {
+    width: 21.5%;
+}
+
+.for_headr {
+    margin: 0% 0% 0% 18%;
+}
+
+p {
+    margin: 0% 0% 0% 4%;
+}
+
+.for_headr1 {
+    margin: -5.7% 0% 0% 39%;
+}
+
+.p2 {
+    margin: 0% 0% 0% 1%;
+}
+
+.for_headr2 {
+    margin: -5.7% 0% 0% 61%;
+}
+
+.p3 {
+    margin: 0% 0% 0% 6%;
+}
+
+hr {
+    margin: 5% 0% 0% 0%;
+    border: 2px solid rgb(106, 106, 106);
+}
+
+.name {
+    margin: 3% 0% 10% 42%;
+}
+
+.link_header {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: -35% 0% 27% 0%;
+}
+
+.p4 {
+    margin: 0%;
+}
+
+.button_shop {
+    background-color: #fdfdfd;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+.name3 {
+    margin: 3% 0% 0% 38%;
+}
+
+.produckt {
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+.produckt1 {
+    padding: 1% 0% 0% 1%;
+}
+
+.NavigationBar1 {
+    color: rgb(0, 0, 0);
+    margin: 3% 0% 3% 0%;
+
+}
+
+.NavigationBar1 a:hover {
+    color: rgb(149, 150, 137)
+}
+
+.NavigationBar1 a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.buy {
+    margin: 3% 0% 0% 45%;
+    background-color: #fdfdfd;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100%;
+    border: 1px solid rgb(106, 106, 106);
+}
+
+.buy1 {
+    margin: 3% 0% 0% 48%;
+    background-color: #fdfdfd;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 100%;
+    border: 1px solid rgb(106, 106, 106);
+}
+
+@media (max-width: 1000px) {
+    p {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #man {
+        margin: 0% 0% 0% 3%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #logo {
+        width: 100%;
+        margin: 0% 0% 0% 20%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .NavigationBar {
+        width: 100%;
+        margin: 0% 0% 0% 13%;
+    }
+}
+@media (max-width: 1000px) {
+    .NavigationBar1 {
+        width: 100%;
+        margin: 0% 0% 0% 15%;
+    }
+}
+
+@media (max-width: 1000px) {
+    ul li {
+        width: 40%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .header {
+        margin: 0% 0% 0% 20%;
+        border: 1px solid rgb(0, 0, 0);
+    }
+}
+
+@media (max-width: 1000px) {
+
+    .header1,
+    .header2 {
+        border: 1px solid rgb(0, 0, 0);
+        width: 65%;
+        margin: 0% 0% 0% 20%;
+    }
+}
+
+@media (max-width: 1000px) {
+
+    .for_headr,
+    .for_headr1,
+    .for_headr2 {
+        width: 65%;
+        margin: 1% 0% 0% 20%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1000px) {
+    .slideshow-container1 {
+        margin: 0% 0% 0% 40%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .slideshow-container2 {
+        margin: 0% 0% 0% 40%;
+    }
+}
+
+@media (max-width: 1000px) {
+
+    .p1,
+    .p2,
+    .p3 {
+        margin: 0% 0% 0% 20%;
+    }
+}
+#search{
+    display: none;
+    width:100%;
+    margin-top: 2%;
+    padding-left: 3%;
+    font-size: 13px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    
+}
+#break{
+    position: absolute;
+    margin: -1.4% 0% 0% 0.5% ;
+    display: none;
+}
+
+@media (max-width: 1000px) {
+#break{
+        width:4%;
+        margin: -4.1% 0% 0% 1% ;
+    }
+}
+@media (max-width: 1000px) {
+    #search{
+        padding-left: 7%;
+        }
+    
+}
+
+@media (max-width: 1000px) {
+    .mySlides1{
+        width:100%;
+        margin:10% 10% 0% 0%;
+        }
+    
+}    
+.name_html{
+    text-align: center;
+}

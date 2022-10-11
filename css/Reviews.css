@@ -1,0 +1,68 @@
+.Reviews {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0
+}
+
+.Reviews::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.Reviews img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+#Reviews3 {
+  display: none;
+}
+
+#Reviews2 {
+  display: none;
+}
+
+#Reviews1 {
+  display: none;
+}
+
+#message {
+  width: 80%;
+  margin: 2% 0% 0% 10%
+}
+
+#message1 {
+  width: 80%;
+  margin: 5% 0% 0% 10%
+}
+
+#submit {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 12px 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 1% 0% 0% 10%;
+}
+
+#submit:hover {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+@media (max-width: 1300px) {
+  .Reviews {
+    text-align: center;
+  }
+
+  .Reviews img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}

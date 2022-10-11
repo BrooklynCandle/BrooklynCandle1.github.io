@@ -1,0 +1,21 @@
+.produckt2{
+    width:30%;
+    margin:5% 0% 0% 20%;
+}
+
+.Candles{
+    position: absolute;
+    margin: -22% 0% 0% 44%;
+}
+@media (max-width: 1000px) {
+    .Candles {
+        position: relative;
+        margin: -10% 0% 0% 0%;
+    }
+}
+@media (max-width: 1000px) {
+    .produckt2 {
+        width:50%;
+        margin: 0% 10% 10% 30%;
+    }
+}
